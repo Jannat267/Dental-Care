@@ -1,0 +1,54 @@
+[ {     "key": "1",
+        "name": "Dental Implants",
+        "starCount": 3245,
+        "fee" :150.00,
+        "details":"The implant fixture is first placed, so that it is likely to osseointegrate, then a dental prosthetic is added.",
+        "img": "https://image.flaticon.com/icons/png/512/993/993248.png"
+    },
+    {
+        "key": "2",
+        "name": "Braces ",
+        "fee" :100.00,
+        "details": "According to scholars and historians, braces date back to ancient times. Around 400-300 BC.",
+        "starCount": 3245,
+        "img": "https://image.flaticon.com/icons/png/512/966/966554.png"
+       
+    },
+    {
+        "key": "3",
+        "name": "Teeth Whitening",
+        "fee" :50.00,
+        "details":"Bleaching methods use carbamide peroxide which reacts with water to form hydrogen peroxide.",
+        "starCount": 3245,
+        "img": "https://image.flaticon.com/icons/png/512/1060/1060876.png"
+        
+    },
+    {
+        "key": "4",
+        "name": "Crowns and Bridges",
+        "fee" :120.00,
+        "details": "Types of bridges may vary, depending upon how they are fabricated and the way they anchor to the adjacent teeth.",
+        "img": "https://image.flaticon.com/icons/png/512/1060/1060909.png",
+        "starCount": 3245
+    },
+    {
+        "key": "5",
+        "name": "Prevention",
+        "fee" :80.00,
+        "details": "The most important part of preventive dentistry is to brush teeth with fluoride toothpaste approved by ADA.",
+        "starCount": 3245,
+        "img":"https://image.flaticon.com/icons/png/512/1041/1041225.png"
+       
+    },
+    {
+        "key": "6",
+        "name": "Cosmetic Dentistry",
+        "fee" :150.00,
+        "details": "There are only 2 dental specialties that only focus on dental esthetics: Prosthodontics and Orthodontics",
+        "starCount": 3245,
+        "img": "https://image.freepik.com/free-vector/dental-braces-abstract-concept-vector-illustration-dental-procedure-braces-correction-method-crowded-teeth-treatment-orthodontic-problem-teeth-aligner-retainer-bracket-abstract-metaphor_335657-4032.jpg"
+    
+    }
+    
+    
+]
